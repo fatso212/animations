@@ -1,0 +1,11 @@
+{
+  "name": "cssproj",
+  "version": "1.0.0",
+  "description": "animation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log()\u001b[D\"hello\")"
+  },
+  "author": "Tzvi Seliger",
+  "license": "ISC"
+}
